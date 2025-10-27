@@ -5,4 +5,4 @@
 
 Ce projet constitue l'examen intra du cours de développement mobile de la Faculté des Sciences Informatiques, présenté au professeur Phawens LOUIS-JEAN, par l'étudiant Samuel Kensley GAËTAN (de code : 2450-C).  
 
-<p align="right"><i>Octobre 2025</i></p>
+*Octobre 2025*
